@@ -1,0 +1,71 @@
+{
+  "carousel": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+      "link": "/promotion/1"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=800&h=400&fit=crop",
+      "link": "/promotion/2"
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&h=400&fit=crop",
+      "link": "/promotion/3"
+    }
+  ],
+  "advertisements": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=800&h=200&fit=crop",
+      "link": "/ads/1"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
+      "link": "/ads/2"
+    }
+  ],
+  "featuredProducts": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+      "name": "Premium Smart Watch",
+      "price": 299.99,
+      "commission": 30.00,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+      "name": "Wireless Headphones",
+      "price": 199.99,
+      "commission": 20.00,
+      "category": "Electronics"
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All"
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics"
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion"
+    },
+    {
+      "id": "home",
+      "name": "Home"
+    },
+    {
+      "id": "beauty",
+      "name": "Beauty"
+    }
+  ]
+}
